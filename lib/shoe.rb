@@ -9,7 +9,7 @@ class Shoe
   end 
   
   def cobble
-    puts ""
+    puts "Your she is as good as new!"
   end 
   
 end 
